@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="1200mm" height="800mm" viewBox="0 0 1200 800">
+    <text x="200.000000" y="500.000000" fill="#000" font-family="MS-Gothic">※グループ化されている展開図を[合体]してください</text>
+    <text x="200.000000" y="520.000000" fill="#000" font-family="MS-Gothic">(合成するオブジェクトを選択 → [ウィンドウ] → [パスファインダ] → [合体])</text>
+    <g>
+        <rect height="244.000000000" width="244.000000000" x="278.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="522.000000000" y="326.750000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="375.600006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="522.000000000" y="424.350006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="473.200012207" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="326.750000000" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="326.750000000" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="424.350006104" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="424.350006104" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+    </g>
+    <g>
+        <rect height="244.000000000" width="244.000000000" x="808.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="805.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="1052.000000000" y="326.750000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="805.000000000" y="375.600006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="1052.000000000" y="424.350006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="805.000000000" y="473.200012207" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="856.750000000" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="856.750000000" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="954.349975586" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="954.349975586" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+    </g>
+    <g>
+        <rect height="244.000000000" width="244.000000000" x="13.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="10.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="257.000000000" y="326.750000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="10.000000000" y="375.600006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="257.000000000" y="424.350006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="10.000000000" y="473.200012207" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="61.750000000" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="61.750000000" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="159.349990845" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="159.349990845" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+    </g>
+    <g>
+        <rect height="244.000000000" width="244.000000000" x="543.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="540.000000000" y="278.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="787.000000000" y="326.750000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="540.000000000" y="375.600006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.899997711" width="3.000000000" x="787.000000000" y="424.350006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="540.000000000" y="473.200012207" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="591.750000000" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="591.750000000" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="689.349975586" y="275.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.899997711" x="689.349975586" y="522.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+    </g>
+    <g>
+        <rect height="244.000000000" width="244.000000000" x="278.000000000" y="13.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="278.000000000" y="10.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="278.000000000" y="257.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="375.600006104" y="10.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="375.600006104" y="257.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="473.200012207" y="10.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="473.200012207" y="257.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="13.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="522.000000000" y="13.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="110.600006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="522.000000000" y="110.600006104" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="208.199996948" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="522.000000000" y="208.199996948" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="275.000000000" y="10.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="275.000000000" y="257.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="522.000000000" y="10.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="522.000000000" y="257.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+    </g>
+    <g>
+        <rect height="244.000000000" width="244.000000000" x="278.000000000" y="543.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="278.000000000" y="540.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="278.000000000" y="787.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="375.600006104" y="540.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="375.600006104" y="787.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="473.200012207" y="540.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="48.799999237" x="473.200012207" y="787.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="543.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="522.000000000" y="543.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="640.599975586" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="522.000000000" y="640.599975586" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="275.000000000" y="738.200012207" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="48.799999237" width="3.000000000" x="522.000000000" y="738.200012207" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="275.000000000" y="540.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="275.000000000" y="787.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="522.000000000" y="540.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+        <rect height="3.000000000" width="3.000000000" x="522.000000000" y="787.000000000" fill="none" stroke="#f00" stroke-width="0.01"></rect>
+    </g>
+    <g>&apos;a&apos;</g>
+</svg>
